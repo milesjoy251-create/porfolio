@@ -1,4 +1,5 @@
 portfolio 
+
 Hello ,my name is Joyce A kinyi Ouma. I am an ICT student with an interest  in technologies, computer systems and digital solutions.I am passionate about learning  how technology  works and how it can be used to solve real world problems 
 
 
